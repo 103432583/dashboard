@@ -1,0 +1,67 @@
+.text_banner1{
+    position: absolute;
+width: 264px;
+height: 28px;
+left: 393px;
+top: 149px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+.text_banner2{
+    position: absolute;
+    width: 595px;
+    height: 48px;
+    left: 393px;
+    top: 190px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+.btn-primary{
+    position: absolute;
+width: 111px;
+height: 24px;
+left: 442px;
+top: 270px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+position: absolute;
+width: 209px;
+height: 57px;
+left: 393px;
+top: 260px;
+
+background: #FF9D35;
+border-radius: 10px;
+}
+.profile_caret{
+position: absolute;
+width: 25px;
+height: 14.18px;
+left: 233px;
+top: 35px;
+}
+.profile_logo{
+    position: absolute;
+left: 30px;
+width: 40px;
+top: 20%;
+bottom: 94.07%;
+}

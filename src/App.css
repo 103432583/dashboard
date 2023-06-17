@@ -1,0 +1,107 @@
+body{
+  background-color: lightgrey;
+}
+
+.logo {
+  position: absolute;
+  width: 185px;
+  height: 175px;
+  left: 68px;
+  top: 0px;
+
+}
+
+.side{
+  margin-top: 190px;
+}
+
+.iconD{
+  height: 16px;
+  display: inline-block;
+  
+}
+
+.iconR {
+  height: 16px;
+  display: inline-block;
+}
+
+.iconRe {
+  height: 16px;
+ 
+  display: inline-block;
+}
+
+
+.D_text{
+display: inline-flex;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 10px;
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: black;
+}
+
+.sidebar{
+  margin: 0;
+  left: 0;
+  top: 0;
+  padding: 0;
+  width: 250px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+
+width: 320px;
+height: 1080px;
+left: 0px;
+top: 0px;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #9DBAFF;
+  color: white;
+}
+
+.top_bar {
+  position: absolute;
+  width: 1250px;
+  height: 82px;
+  left: 324px;
+  top: 0px;
+  
+  background: #FFFFFF;
+}
+
+.top_text{
+ margin-left: 30px;
+ margin-top: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 20px;
+
+color: #282828;
+}
+.profile_text{
+  margin-left: 90px;
+  margin-top: 30px;
+ font-family: 'Times New Roman', Times, serif;
+ font-style: normal;
+ font-weight: 200;
+ font-size: 24px;
+ line-height: 20px;
+ 
+ color: #282828;
+}
